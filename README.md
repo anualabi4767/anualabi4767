@@ -1,6 +1,13 @@
+<div align="center">
+
 # Anuoluwapo Victoria Alabi
 
-### GRC & Cybersecurity | NIST CSF & NIST AI RMF • ISO 27001 • Cloud Security | CISA Candidate
+### GRC & IT Audit | Cybersecurity & Cloud Risk | CISA Candiidate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alabianu/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alabianu)
+
+</div>
 
 ## About Me
 I'm a GRC and cybersecurity professional with hands-on experience translating security frameworks into actionable programs. During my internship on Mandiant's Strategic Services team at Google Cloud, I supported a 12-domain Security Program Assessment for a Fortune 500 client against NIST CSF, contributing to an 18% improvement in the client's security posture. I hold an M.Sc. in Computer Information Systems (cybersecurity/GRC focus) from Prairie View A&M University and am currently pursuing CISA.
@@ -24,7 +31,7 @@ I build tools that operationalize governance — turning frameworks like NIST CS
 - *Pursuing: CISA*
 
 ## Background
-- 🎓 M.Sc. Computer Information Systems (Cybersecurity), Prairie View A&M University — GPA 3.84
+- 🎓 M.Sc. Computer Information Systems (Cybersecurity/GRC), Prairie View A&M University — GPA 3.84
 - 🔬 Peer-reviewed publication presented at iPRES 2025
 - 💼 Security Consultant Intern, Mandiant Strategic Services @ Google Cloud
 - 💼 Business/Functional Analyst Intern, BST Consulting Ltd. (UK) — Open Banking & Regulatory Suite
@@ -32,7 +39,7 @@ I build tools that operationalize governance — turning frameworks like NIST CS
 - 🌱 Mentees Liaison, Scholars Lighthouse (STEM mentorship)
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/alabianu/)
+[LinkedIn](https://www.linkedin.com/in/alabianu/) • [Credly](https://www.credly.com/users/alabianu)
 
 ---
 > Turning security frameworks into working systems, not just documentation.
