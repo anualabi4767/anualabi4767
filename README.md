@@ -10,9 +10,18 @@
 </div>
 
 ## About Me
-I'm a GRC and cybersecurity professional with hands-on experience translating security frameworks into actionable programs. During my internship on Mandiant's Strategic Services team at Google Cloud, I supported a 12-domain Security Program Assessment for a Fortune 500 client against NIST CSF, contributing to an 18% improvement in the client's security posture. I hold an M.Sc. in Computer Information Systems (cybersecurity/GRC focus) from Prairie View A&M University and am currently pursuing CISA.
+I'm a GRC and IT audit professional specializing in NIST CSF, ISO 27001, and AI governance frameworks (NIST AI RMF). During my internship on Mandiant's Strategic Services team at Google Cloud, I:
+- Supported 12-domain security program assessments for 3+ Fortune 500 clients, delivering recommendations that improved client security posture by 18%
+- Co-designed and facilitated 4 ransomware/incident-response tabletop exercises, cutting mean time to containment by 20%
+- Contributed to threat-hunting activities across 8 strategic engagements, identifying 12+ security gaps
 
-I build tools that operationalize governance — turning frameworks like NIST CSF and the NIST AI RMF into working trackers and assessments rather than static checklists.
+My work spans risk assessments, compliance reviews, and translating frameworks into working tools rather than static checklists.
+
+Beyond my professional work, I'm committed to giving back to the community. I serve as Mentees Liaison for Scholars Lighthouse, a STEM mentorship program, and I'm an active member of ISACA, Women in Cybersecurity (WiCyS), Society of Women Engineers (SWE), and the National Society of Black Engineers (NSBE).
+
+> 💬 *"Compliance tells you what's required. Governance tells you why it matters."*
+
+🎓 **Currently pursuing:** CISA (Certified Information Systems Auditor) — building deeper audit expertise to formalize my GRC practice.
 
 ## Featured Projects & Enterprise Contributions
 | Project / Initiative | Description |
