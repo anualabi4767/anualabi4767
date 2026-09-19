@@ -1,4 +1,4 @@
-# Anu Victoria Alabi
+# Anuoluwapo Victoria Alabi
 
 ### GRC & Cybersecurity | NIST CSF & NIST AI RMF • ISO 27001 • Cloud Security | CISA Candidate
 
