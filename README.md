@@ -14,12 +14,19 @@ I'm a GRC and cybersecurity professional with hands-on experience translating se
 
 I build tools that operationalize governance — turning frameworks like NIST CSF and the NIST AI RMF into working trackers and assessments rather than static checklists.
 
-## Featured Projects
-| Project | Description |
+## Featured Projects & Enterprise Contributions
+| Project / Initiative | Description |
 |---|---|
-| 🤖 [**AI Governance Gap Assessment**](https://github.com/anualabi4767/ai-governance-tracker) | Python tool assessing AI system governance against the NIST AI RMF, with CI/CD integration. |
-| 📋 [**GRC Control & Evidence Tracker**](https://github.com/anualabi4767/grc-tracker) | Tracks controls and evidence collection across a compliance program. |
-| 🛒 [**Vendor Risk Assessment**](https://github.com/anualabi4767/vendor-risk-assessment) | Vendor risk evaluation workflow with Excel and PDF outputs. |
+| 📋 [**GRC Control & Evidence Tracker**](https://github.com/anualabi4767/grc-tracker) | Built a workflow tool that tracks controls and evidence collection across a compliance program, reducing manual tracking effort and keeping audit documentation continuously ready rather than assembled at the deadline. |
+| 🛒 [**Third-Party Vendor Risk Assessment**](https://github.com/anualabi4767/vendor-risk-assessment) | Assessed 6 third-party vendors for security risk using a Likelihood × Impact scoring model, evaluating data sensitivity, system access level, and control evidence (SOC 2, certifications). Delivered a Vendor Risk Register and Risk Treatment Plan with control gaps mapped to NIST SP 800-161 and ISO 27001 Annex A.15. |
+| 🤖 [**AI Governance Gap Assessment**](https://github.com/anualabi4767/ai-governance-tracker) | Built a Python tool assessing four mock AI systems (chatbot, coding copilot, resume-screening model, fraud-detection model) against the NIST AI Risk Management Framework's four core functions, with risk-weighted gap prioritization surfacing the highest-risk, least-governed systems first. Validated with 7 unit tests and continuous integration via GitHub Actions. |
+
+## Technical Skillset
+🛡️ **GRC & Risk:** Control Assessments • Risk Assessment • Vulnerability Management • Third-Party/Vendor Review • Policy & Compliance Review • Incident Response
+🗂️ **Frameworks & Standards:** NIST CSF • NIST AI RMF • NIST SP 800-161 • ISO 27001 • SOC 2 • GDPR • HIPAA • MITRE ATT&CK • OWASP
+🔧 **Security Tools:** Splunk • Nmap • Nessus • Wireshark • Metasploit • Burp Suite • SIEM/SOAR
+☁️ **Cloud & IAM:** AWS (IAM, VPC, GuardDuty, Security Hub, CloudTrail) • Kubernetes • SailPoint
+🤖 **AI & Programming:** Python • SQL • PowerShell • AI-Assisted Security Workflows
 
 ## Certifications
 - CompTIA Security+
