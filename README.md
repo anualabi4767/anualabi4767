@@ -42,13 +42,7 @@ Beyond my professional work, I'm committed to giving back to the community. I se
 🤖 **AI & Programming:** Python • SQL • PowerShell • AI-Assisted Security Workflows
 
 ## Certifications
-- CompTIA Security+
-- Certified Scrum Master (CSM)
-- Google Project Management
-- ISO 27001 Auditor
-- AWS Cloud Security
-- Business Analysis Foundations
-- *Pursuing: CISA*
+CompTIA Security+ • Certified Scrum Master (CSM) • Google Project Management • ISO 27001 Auditor • AWS Cloud Security • Business Analysis Foundations
 
 ## Background
 - 🎓 M.Sc. Computer Information Systems (Cybersecurity/GRC), Prairie View A&M University — GPA 3.84
@@ -60,6 +54,3 @@ Beyond my professional work, I'm committed to giving back to the community. I se
 
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/alabianu/) • [Credly](https://www.credly.com/users/alabianu)
-
----
-> Turning security frameworks into working systems, not just documentation.
