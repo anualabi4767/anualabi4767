@@ -23,9 +23,13 @@ I build tools that operationalize governance — turning frameworks like NIST CS
 
 ## Technical Skillset
 🛡️ **GRC & Risk:** Control Assessments • Risk Assessment • Vulnerability Management • Third-Party/Vendor Review • Policy & Compliance Review • Incident Response
+
 🗂️ **Frameworks & Standards:** NIST CSF • NIST AI RMF • NIST SP 800-161 • ISO 27001 • SOC 2 • GDPR • HIPAA • MITRE ATT&CK • OWASP
+
 🔧 **Security Tools:** Splunk • Nmap • Nessus • Wireshark • Metasploit • Burp Suite • SIEM/SOAR
+
 ☁️ **Cloud & IAM:** AWS (IAM, VPC, GuardDuty, Security Hub, CloudTrail) • Kubernetes • SailPoint
+
 🤖 **AI & Programming:** Python • SQL • PowerShell • AI-Assisted Security Workflows
 
 ## Certifications
